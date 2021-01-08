@@ -1,0 +1,2 @@
+C:\Users\zainu\source\repos\ProjectTicTac2\Debug\ProjectTicTac2.exe
+C:\Users\zainu\source\repos\ProjectTicTac2\Debug\ProjectTicTac2.pdb
